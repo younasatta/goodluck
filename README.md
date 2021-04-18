@@ -1,2 +1,2 @@
-# goodluck
-good sir
+mobile 
+loteryno
